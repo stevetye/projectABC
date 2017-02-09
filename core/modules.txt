@@ -1,0 +1,4 @@
+BR-MLX-MR2-M MLXe Series Mgmt Module (4 ea.)
+NIX-SF3 switch fabric module (6 ea.)
+NI-MLX-10GX4 MLXe Series 4-Port 10Gig Module (10 ea.)
+BR-MLXE-ACPWR-1800 Power Supply (8 ea.) 
