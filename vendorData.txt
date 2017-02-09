@@ -1,5 +1,6 @@
 Delivery Organization: IP Professional Services
-Sales Engineer: Ace Architon
+Sales Engineer: Deuce Architon
 Manager: Tom Dally
 Project Manager: Wendy Tolbert
-PS Engineer: Jacob
+PS Engineer: TBD
+PS Shadowing: Jacob
