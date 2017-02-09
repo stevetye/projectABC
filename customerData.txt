@@ -3,3 +3,4 @@ SOW 54321
 PO 23456
 Contact: Michael S. Newman, Esq.
 Backup Contact: Tony Smith
+Authorized trips: 5
